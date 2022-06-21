@@ -36,3 +36,4 @@ else:
     valor_pagar = porcentagem * salario
     print("sua aliquola é de 27.5% valor a pagar é de: R$", valor_pagar)
     #Obrigada.
+print(f"o salario liquido é de R${sobra_salario}.")
